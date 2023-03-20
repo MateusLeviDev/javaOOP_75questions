@@ -46,3 +46,11 @@
 - 44. O que é polimorfismo ad hoc em POO e como ele é implementado?
 - 45. Como o polimorfismo pode ser usado para melhorar a reutilização de código em POO?
 - 46. Quais são as vantagens e desvantagens do uso de herança e polimorfismo em POO?
+- 47. What is the abstraction in Java?
+- 48. Is Java a pure object-oriented language? if not why?
+- 49. What is the difference between a class and an instance?
+- 50. What is the difference between Decorator, Proxy, and Adapter patterns in Java?
+- 51. Can we overload or override the main method in Java?
+- 52. Can we make a class abstract without an abstract method?
+- 53. Can we make a class both final and abstract at the same time?
+- 54. What is the default method of Java 8?
