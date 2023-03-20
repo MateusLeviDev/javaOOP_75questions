@@ -1,2 +1,38 @@
-# javaOOP_75questions
-Object-Oriented Programming is one of the main concepts in the programming world, therefore, every interview that you attend requires knowledge of OOPs.
+## `Java Questions`
+
+- 01. What is inheritance?
+- 02. What are the different types of inheritance?
+- 03. What are the limitations of inheritance?
+- 04. What is a superclass?
+- 05. What is a subclass?
+- 06. What is polymorphism?
+- 07. What is method overloading?
+- 08. What is method overriding?
+- 09. What is encapsulation?
+- 10. What are ‘access specifiers’?
+- 11. What is the difference between public, private and protected access modifiers?
+- 12. Can you create an instance of an abstract class?
+- 13. What is an interface?
+- 14. Differentiate between an abstract class and an interface?
+- 15. What is a try/ catch block?
+- 16. Can you override a static method in Java?
+- 17. O que é Programação Orientada a Objetos (POO) e quais são seus princípios básicos?
+- 18. Quais são as diferenças entre POO e programação procedural?
+- 19. O que são classes e objetos em POO?
+- 20. O que é encapsulamento em POO e qual é sua importância?
+- 21. O que são métodos em POO e como eles são usados?
+- 22. O que são atributos em POO e como eles são usados?
+- 23. O que é herança em POO e como ela é implementada?
+- 24. Quais são as vantagens da herança em POO?
+- 25. O que é polimorfismo em POO e como ele é implementado?
+- 26. O que é sobrescrita de método e quando ela é usada em POO?
+- 27. O que é sobrecarga de método e quando ela é usada em POO?
+- 28. O que é abstração em POO e como ela é implementada?
+- 29. Qual é a diferença entre uma classe abstrata e uma interface em POO?
+- 30. O que é composição em POO e como ela é implementada?
+- 31. O que é agregação em POO e como ela é implementada?
+- 32. O que é associação em POO e como ela é implementada?
+- 33. Qual é a diferença entre composição, agregação e associação em POO?
+- 34. O que é um construtor em POO e como ele é usado?
+- 35. O que é um destrutor em POO e como ele é usado?
+- 36. O que são exceções em POO e como elas são tratadas?
