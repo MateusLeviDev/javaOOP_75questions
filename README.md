@@ -54,3 +54,47 @@
 - 52. Can we make a class abstract without an abstract method?
 - 53. Can we make a class both final and abstract at the same time?
 - 54. What is the default method of Java 8?
+- 55. O que é encapsulamento em Java e como ele é implementado? (Encapsulamento e Modificadores de Acesso)
+- 56. Qual a diferença entre uma classe abstrata e uma interface em Java? (Abstração e Interface)
+- 57. Como as classes internas funcionam em Java e em quais situações elas podem ser úteis? (Classes Internas)
+- 58. Como é possível implementar herança múltipla em Java? (Herança Múltipla)
+- 59. O que são classes finais em Java e por que elas podem ser úteis? (Classes Finais)
+- 60. O que é polimorfismo em Java e como ele pode ser aplicado? (Polimorfismo)
+- 61. Como funciona a sobrecarga de métodos em Java e em que situações ela pode ser útil? (Sobrecarga de Métodos)
+- 62. Como funcionam as exceções em Java e como elas podem ser tratadas? (Tratamento de Exceções)
+- 63. Como é possível criar e utilizar anotações em Java? (Anotações)
+- 64. Qual a diferença entre composição e herança em Java? (Composição e Herança)
+- 65. Como funciona a serialização de objetos em Java e quais são suas limitações? (Serialização de Objetos)
+- 66. Como as classes abertas podem ser úteis em Java? (Classes Abertas)
+- 67. Como as expressões lambda podem ser utilizadas em Java? (Expressões Lambda)
+- 68. Como é possível utilizar os streams em Java e quais são suas vantagens? (Streams)
+- 69. O que é o padrão DAO (Data Access Object) e como ele pode ser utilizado em Java? (Padrão DAO (Data Access Object))
+- 70. Qual a diferença entre uma classe estática e uma classe normal em Java? (Classes Estáticas)
+- 71. Como funcionam os genéricos em Java e quais são suas limitações? (Genéricos)
+- 72. Como é possível implementar a segurança em Java? (Segurança)
+- 73. Como funcionam os listeners em Java e como eles podem ser utilizados? (Listeners)
+- 74. omo funciona a injeção de dependência em Java e quais são suas vantagens? (Injeção de Dependência)
+- 75. Como é possível utilizar a reflexão em Java e quais são suas limitações? (Reflexão.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
