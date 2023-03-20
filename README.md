@@ -36,3 +36,13 @@
 - 34. O que é um construtor em POO e como ele é usado?
 - 35. O que é um destrutor em POO e como ele é usado?
 - 36. O que são exceções em POO e como elas são tratadas?
+- 37. Qual é a relação entre herança e polimorfismo em POO?
+- 38. Como a herança é usada para implementar o polimorfismo em POO?
+- 39. Quais são os tipos de herança em POO e como eles afetam o polimorfismo?
+- 40. O que é sobrescrita de método em POO e como ela afeta o polimorfismo?
+- 41. O que é sobrecarga de método em POO e como ela afeta o polimorfismo?
+- 42. O que é polimorfismo de sobrecarga em POO e como ele é implementado?
+- 43. O que é polimorfismo de sobrescrita em POO e como ele é implementado?
+- 44. O que é polimorfismo ad hoc em POO e como ele é implementado?
+- 45. Como o polimorfismo pode ser usado para melhorar a reutilização de código em POO?
+- 46. Quais são as vantagens e desvantagens do uso de herança e polimorfismo em POO?
