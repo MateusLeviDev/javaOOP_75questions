@@ -21,7 +21,7 @@ y.withdraw(50.0)
 ```
 > Tudo isso em upcasting, ou seja, em tempo de execução.
 - 07. What is method overloading?
-> uma classe pode ter vários métodos com o mesmo nome, mas com parâmetros diferentes. Isso permite que um método realize diferentes ações dependendo dos argumentos que são passados para ele.
+> Uma classe pode ter vários métodos com o mesmo nome, mas com parâmetros diferentes. Isso permite que um método realize diferentes ações dependendo dos argumentos que são passados para ele.
 ```
 public class Calculadora {
     public int somar(int a, int b) {
@@ -42,7 +42,6 @@ Calculadora calc = new Calculadora();
 int resultado1 = calc.somar(2, 3);           // chama o método somar(int a, int b)
 int resultado2 = calc.somar(2, 3, 4);        // chama o método somar(int a, int b, int c)
 double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, double b)
-
 ```
 - 08. What is method overriding?
 > É a implementação de um método de uma superclasse na subclasse. Importante o uso da anotação @Override
