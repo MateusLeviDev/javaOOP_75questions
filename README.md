@@ -19,8 +19,33 @@ Account y = new SavingsAccount(1023, "Maria", 1000.0, 0.01);
 x.withdraw(50.0);
 y.withdraw(50.0)
 ```
+> Tudo isso em upcasting, ou seja, em tempo de execução.
 - 07. What is method overloading?
+> uma classe pode ter vários métodos com o mesmo nome, mas com parâmetros diferentes. Isso permite que um método realize diferentes ações dependendo dos argumentos que são passados para ele.
+```
+public class Calculadora {
+    public int somar(int a, int b) {
+        return a + b;
+    }
+    
+    public int somar(int a, int b, int c) {
+        return a + b + c;
+    }
+    
+    public double somar(double a, double b) {
+        return a + b;
+    }
+}
+
+// Usando a classe Calculadora
+Calculadora calc = new Calculadora();
+int resultado1 = calc.somar(2, 3);           // chama o método somar(int a, int b)
+int resultado2 = calc.somar(2, 3, 4);        // chama o método somar(int a, int b, int c)
+double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, double b)
+
+```
 - 08. What is method overriding?
+> É a implementação de um método de uma superclasse na subclasse. Importante o uso da anotação @Override
 - 09. What is encapsulation?
 - 10. What are ‘access specifiers’?
 - 11. What is the difference between public, private and protected access modifiers?
