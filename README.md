@@ -7,9 +7,11 @@
 - 03. What are the limitations of inheritance?
 > A herança cria uma relação rígida entre as classes, onde as subclasses herdam todos os atributos e métodos da superclasse, mesmo que não precisem de todos eles. Isso pode tornar o código menos flexível e mais difícil de manter. A herança pode levar a um alto grau de acoplamento entre as classes, o que significa que uma mudança em uma classe pode afetar várias outras classes na hierarquia de herança. A herança múltipla pode ser confusa e pode levar a problemas de ambiguidade quando duas ou mais superclasses têm métodos ou atributos com o mesmo nome.
 - 04. What is a superclass?
-> Uma superclasse pode ser definida como uma classe mãe. Ao meu ver uma main classe, gênerica, talvez? How knows
+> Uma superclasse pode ser definida como uma classe mãe que se estende e gerando a herança para com outras subclasses. Ao meu ver uma main classe, gênerica, talvez? How knows. Mas na verdade, sim, visto que os métodos serão melhor trabalhados pelas subclasses.
 - 05. What is a subclass?
-- 06. What is polymorphism?
+> Subclasses herdam os atributos e métodos dessas superclasses, podendo personalizá-los ou adicionar novos métodos e atributos específicos de acordo com sua necessidade, regra de negócio e afins. 
+- 06. What is polymorphism? `(polimorfismo ou poliformismo? rs)`
+> Poliformismo (a forma certa, quando se retrata sobre programação. Em contrapartida, polimorfismo, maneira correta de se escrever a palavra, é referente a um ramo da ciência) em suma, é a capacidade de uma variável gênerica herdar métodos relacionados a um objeto, sem a necessidade de relação entre si. Por exemplo, consigo explicar com os seguintes dados: 
 - 07. What is method overloading?
 - 08. What is method overriding?
 - 09. What is encapsulation?
