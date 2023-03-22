@@ -1,10 +1,13 @@
 ## `Java Questions`
 
-- 01. What is inheritance?
-> É a capacidade de uma subclasse herdar atributos, ou seja, herdar "características" de uma superclasse. 
+- 01. What is inheritance? `(herança)`
+> É a capacidade de uma subclasse herdar atributos e métodos, ou seja, herdar "características" de uma superclasse. Isso ajuda a evitar a duplicação de código e a criar hierarquias de classes com diferentes níveis de abstração.
 - 02. What are the different types of inheritance?
+> Herança simples, podendo ser múltipla como em C++. Existindo também a hierárquica e híbrida. 
 - 03. What are the limitations of inheritance?
+> A herança cria uma relação rígida entre as classes, onde as subclasses herdam todos os atributos e métodos da superclasse, mesmo que não precisem de todos eles. Isso pode tornar o código menos flexível e mais difícil de manter. A herança pode levar a um alto grau de acoplamento entre as classes, o que significa que uma mudança em uma classe pode afetar várias outras classes na hierarquia de herança. A herança múltipla pode ser confusa e pode levar a problemas de ambiguidade quando duas ou mais superclasses têm métodos ou atributos com o mesmo nome.
 - 04. What is a superclass?
+> Uma superclasse pode ser definida como uma classe mãe. Ao meu ver uma main classe, gênerica, talvez? How knows
 - 05. What is a subclass?
 - 06. What is polymorphism?
 - 07. What is method overloading?
