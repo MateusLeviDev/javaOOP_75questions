@@ -50,6 +50,7 @@ double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, 
 - 10. What are ‘access specifiers’?
 - 11. What is the difference between public, private and protected access modifiers?
 - 12. Can you create an instance of an abstract class?
+> Não, abstract classes não podem ser instanciadas. 
 - 13. What is an interface?
 - 14. Differentiate between an abstract class and an interface?
 - 15. What is a try/ catch block?
