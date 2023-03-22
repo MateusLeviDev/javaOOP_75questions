@@ -1,6 +1,7 @@
 ## `Java Questions`
 
 - 01. What is inheritance?
+> É a capacidade de uma subclasse herdar atributos, ou seja, herdar "características" de uma superclasse. 
 - 02. What are the different types of inheritance?
 - 03. What are the limitations of inheritance?
 - 04. What is a superclass?
