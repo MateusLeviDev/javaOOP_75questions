@@ -12,11 +12,13 @@
 > Subclasses herdam os atributos e métodos dessas superclasses, podendo personalizá-los ou adicionar novos métodos e atributos específicos de acordo com sua necessidade, regra de negócio e afins. 
 - 06. What is polymorphism? `(polimorfismo ou poliformismo? rs)`
 > Poliformismo (a forma certa, quando se retrata sobre programação. Em contrapartida, polimorfismo, maneira correta de se escrever a palavra, é referente a um ramo da ciência) em suma, é a capacidade de uma variável gênerica herdar métodos relacionados a um objeto, sem a necessidade de relação entre si. Por exemplo, consigo explicar com os seguintes dados: 
-> Account x = new Account(1020, "Alex", 1000.0);
+```
+Account x = new Account(1020, "Alex", 1000.0);
 Account y = new SavingsAccount(1023, "Maria", 1000.0, 0.01); 
 
 x.withdraw(50.0);
 y.withdraw(50.0)
+```
 - 07. What is method overloading?
 - 08. What is method overriding?
 - 09. What is encapsulation?
