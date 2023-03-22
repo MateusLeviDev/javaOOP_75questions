@@ -11,7 +11,7 @@
 - 05. What is a subclass?
 > Subclasses herdam os atributos e métodos dessas superclasses, podendo personalizá-los ou adicionar novos métodos e atributos específicos de acordo com sua necessidade, regra de negócio e afins. 
 - 06. What is polymorphism? `(polimorfismo ou poliformismo? rs)`
-> Poliformismo (a forma certa, quando se retrata sobre programação. Em contrapartida, polimorfismo, maneira correta de se escrever a palavra, é referente a um ramo da ciência) em suma, é a capacidade de uma variável gênerica herdar métodos relacionados a um objeto, sem a necessidade de relação entre si. Por exemplo, consigo explicar com os seguintes dados: 
+> Poliformismo (a forma certa, quando se retrata sobre programação. Em contrapartida, polimorfismo, maneira correta de se escrever a palavra, é referente a um ramo da ciência) em suma, é a capacidade de uma variável gênerica manipular métodos relacionados a um objeto, sem a necessidade de relação entre si. Por exemplo, consigo explicar com os seguintes dados: 
 ```
 Account x = new Account(1020, "Alex", 1000.0);
 Account y = new SavingsAccount(1023, "Maria", 1000.0, 0.01); 
@@ -46,6 +46,7 @@ double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, 
 - 08. What is method overriding?
 > É a implementação de um método de uma superclasse na subclasse. Importante o uso da anotação @Override
 - 09. What is encapsulation?
+> Encapsulamento é, como principal ideia, uma forma de segurança. Permite que os dados sejam protegidos, dessa maneira, sendo acessados por meio de métodos getters and setters. Ou seja, é uma estratégia de trabalho que permite proteger o acesso direto aos recursos de uma classe instanciada a um objeto.
 - 10. What are ‘access specifiers’?
 - 11. What is the difference between public, private and protected access modifiers?
 - 12. Can you create an instance of an abstract class?
