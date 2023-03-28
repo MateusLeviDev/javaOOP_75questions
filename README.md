@@ -49,6 +49,7 @@ double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, 
 > Encapsulamento é, como principal ideia, uma forma de segurança. Permite que os dados sejam protegidos, dessa maneira, sendo acessados por meio de métodos getters and setters. Ou seja, é uma estratégia de trabalho que permite proteger o acesso direto aos recursos de uma classe instanciada a um objeto.
 - 10. What are ‘access specifiers’?
 - 11. What is the difference between public, private and protected access modifiers?
+> Basicamente "sua visibilidade". Por exemplo: Private (apenas a própria classe tem acesso); Protected (public-default. terá acesso se a classe extender da classe com o atributo protected. Acesso por herança) e public (autoexpli).
 - 12. Can you create an instance of an abstract class?
 > Não, abstract classes não podem ser instanciadas. 
 - 13. What is an interface?
