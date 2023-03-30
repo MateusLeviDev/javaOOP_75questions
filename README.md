@@ -48,26 +48,41 @@ double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, 
 - 09. What is encapsulation?
 > Encapsulamento é, como principal ideia, uma forma de segurança. Permite que os dados sejam protegidos, dessa maneira, sendo acessados por meio de métodos getters and setters. Ou seja, é uma estratégia de trabalho que permite proteger o acesso direto aos recursos de uma classe instanciada a um objeto.
 - 10. What are ‘access specifiers’?
+- > Public, private, protected.
 - 11. What is the difference between public, private and protected access modifiers?
 > Basicamente "sua visibilidade". Por exemplo: Private (apenas a própria classe tem acesso); Protected (public-default. terá acesso se a classe extender da classe com o atributo protected. Acesso por herança) e public (autoexpli).
 - 12. Can you create an instance of an abstract class?
 > Não, abstract classes não podem ser instanciadas. 
 - 13. What is an interface?
+> Pode ser considerada um contrato. Uma interface, em suma, é um set de métodos, não contendo código.
 - 14. Differentiate between an abstract class and an interface?
+> Quando nos criamos uma Interface, nós estamos basicamente criando um set de métodos sem qualquer implementação que deve ser herdado por outras classes já implementadas. A vantagem é que desta forma consegue-se prover um caminho para uma classe ser parte de duas classes: uma herdada hierarquicamente e outra da Interface.
+Quando nos criamos uma Classe Abstrata, nós estamos criando uma classe base que pode ter um ou mais métodos completos, mas pelo menos um ou mais destes métodos tem que criados incompletos (sem corpo), isto caracteriza uma Classe Abstrata.
 - 15. What is a try/ catch block?
+> É a sintaxe da parte sobre tratamento de erros.
 - 16. Can you override a static method in Java?
+> Métodos static são funções que não dependem da criação de uma instância. Quando invocados executam uma função sem a dependência do conteúdo de um objeto ou a execução da instância de uma classe, conseguindo chamar direto qualquer método da classe e também manipulando alguns campos da classe. 
 - 17. O que é Programação Orientada a Objetos (POO) e quais são seus princípios básicos?
+> POO é um paradigma de programação, fundamental para a execução das principais funcionalidades em Java. Seus pontos principais são: A herança, o poliformismo, encapsulamento, sobreposição, abstração. 
 - 18. Quais são as diferenças entre POO e programação procedural?
+> Em resumo, a POO enfatiza a criação de objetos que encapsulam dados e comportamentos, enquanto a programação procedural enfatiza a criação de funções ou procedimentos que manipulam dados. Ambos os paradigmas têm seus próprios pontos fortes e fracos, e a escolha entre eles depende do problema a ser resolvido e das preferências pessoais do programador.
 - 19. O que são classes e objetos em POO?
+> Classes são estrutura de dados que instanciam um objeto. Já o objeto podemos entender como um conjunto de "rotinas", possuindo atributos (caracteristicas) e métodos (basicamente suas ações). Portanto, pode-se dizer que as classes são "modelos" para a criação de objetos e os objetos são "instâncias" desses modelos que possuem atributos específicos e podem realizar ações.
 - 20. O que é encapsulamento em POO e qual é sua importância?
+> Encapsulamento é uma forma de proteger seus dados sendo acessados por meio de métodos getters e setters. Com a ideia de não expor informações desnecessárias.
 - 21. O que são métodos em POO e como eles são usados?
+> Define o comportamento dos objetos. 
 - 22. O que são atributos em POO e como eles são usados?
+> Atributos são características de um objeto. Como por exemplo: name, id, idade, etc... 
 - 23. O que é herança em POO e como ela é implementada?
+> Permite que uma subclasse herde propriedades de uma superclasse. Usando o `extends`
 - 24. Quais são as vantagens da herança em POO?
+> Respondido acima, permite um código mais limpo, sem duplicação.
 - 25. O que é polimorfismo em POO e como ele é implementado?
 - 26. O que é sobrescrita de método e quando ela é usada em POO?
 - 27. O que é sobrecarga de método e quando ela é usada em POO?
 - 28. O que é abstração em POO e como ela é implementada?
+> Abstração consiste em ocultar detalhes e exibir somente o necessário para a aplicação. Pode ser implementada por meio de via de mét abstrato e via interface.
 - 29. Qual é a diferença entre uma classe abstrata e uma interface em POO?
 - 30. O que é composição em POO e como ela é implementada?
 - 31. O que é agregação em POO e como ela é implementada?
@@ -113,7 +128,7 @@ double resultado3 = calc.somar(2.5, 3.7);    // chama o método somar(double a, 
 - 71. Como funcionam os genéricos em Java e quais são suas limitações? (Genéricos)
 - 72. Como é possível implementar a segurança em Java? (Segurança)
 - 73. Como funcionam os listeners em Java e como eles podem ser utilizados? (Listeners)
-- 74. omo funciona a injeção de dependência em Java e quais são suas vantagens? (Injeção de Dependência)
+- 74. Como funciona a injeção de dependência em Java e quais são suas vantagens? (Injeção de Dependência)
 - 75. Como é possível utilizar a reflexão em Java e quais são suas limitações? (Reflexão.)
 
 
