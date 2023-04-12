@@ -87,6 +87,7 @@ Quando nos criamos uma Classe Abstrata, nós estamos criando uma classe base que
 > Abstração consiste em ocultar detalhes e exibir somente o necessário para a aplicação. Pode ser implementada por meio de via de mét abstrato e via interface.
 - 29. Qual é a diferença entre uma classe abstrata e uma interface em POO?
 > Ambas definem um contrato e especificações. Porém uma classe abstrata pode conter métodos concretos (com implementação), enquanto uma interface só pode conter métodos abstratos (sem implementação). Uma classe pode implementar várias interfaces, mas só pode herdar de uma única classe abstrata. Em resumo, uma classe abstrata é uma classe que não pode ser instanciada e pode conter métodos concretos (significa que contém um escopo), enquanto uma interface é uma coleção de métodos abstratos que define um conjunto de ações que uma classe deve implementar.
+> 
 - 30. O que é composição em POO e como ela é implementada?
 - 31. O que é agregação em POO e como ela é implementada?
 - 32. O que é associação em POO e como ela é implementada?
