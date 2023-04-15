@@ -1,6 +1,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/MateusLeviDev/javaOOP_75questions)
 
-## `75 Java Questions`
+## `75 Java Questions #01`
 
 - 01. What is inheritance? `(herança)`
 > É a capacidade de uma subclasse herdar atributos e métodos, ou seja, herdar "características" de uma superclasse. Isso ajuda a evitar a duplicação de código e a criar hierarquias de classes com diferentes níveis de abstração.
